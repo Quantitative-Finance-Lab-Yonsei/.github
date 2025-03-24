@@ -30,4 +30,3 @@ For inquiries and collaborations, please reach out via:
 - **GitHub Issues**: For technical discussions and feedback.
 
 ---
-🔍 *Stay tuned for our latest research and developments in quantitative finance!*
