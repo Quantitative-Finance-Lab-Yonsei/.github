@@ -26,7 +26,7 @@ We welcome contributions from researchers and practitioners in the field. To con
 
 ## 📧 Contact
 For inquiries and collaborations, please reach out via:
-- **Website**: [Lab Homepage](ahn.yonsei.ac.kr)
+- **Website**: [Lab Homepage](https://ahn.yonsei.ac.kr)
 - **GitHub Issues**: For technical discussions and feedback.
 
 ---
