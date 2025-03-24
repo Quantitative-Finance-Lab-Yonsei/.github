@@ -9,7 +9,7 @@ The **Quantitative Finance Lab** is dedicated to exploring cutting-edge methodol
 We focus on a broad range of topics, including but not limited to:
 
 1. **Asset Pricing, Macroeconomics, AI in Finance, Fintech**
-2. **Energy Economics, Econophysics, Business Analytics,**
+2. **Energy Economics, Econophysics, Business Analytics**
 3. **Real Estate, Green Sustainability, Inequality**
 
 ## 📂 Repository Structure
